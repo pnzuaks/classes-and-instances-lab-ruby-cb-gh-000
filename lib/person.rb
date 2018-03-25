@@ -1,4 +1,4 @@
-class Person
+new class Person
 end
 
 adele_goldberg = new.Person
